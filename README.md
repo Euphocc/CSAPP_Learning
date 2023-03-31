@@ -1,8 +1,9 @@
 # Learning CSAPP
 ```这个计划仅仅是初步计划，详细时间线制定需要再等一段时间```
-Computer Systems:A Programmer's Perspective(CSAPP)
-深入理解计算机系统
+Computer Systems:A Programmer's Perspective(CSAPP)</br>
+深入理解计算机系统</br>
 ![csapp_cover](./figures/csapp_cover.png)
+
 + Requirements:
   + Push your notes to GitHub repository in every period,
   + Finish assignments carefully,
