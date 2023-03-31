@@ -12,7 +12,7 @@ Computer Systems:A Programmer's Perspective(CSAPP)
   + Finish assignments carefully,
   + Conduct labs independently,try to seek necessary help.
   + 
-## Section 1:</br>Finish Part I and conduct 3~4 labs.(2~3 months)
+## Section 1:</br>Finish Part I and conduct 3 ~ 4 labs.(2 ~ 3 months)
 
 **31.03.2023**
 + Pre-skills needed(1 week):
